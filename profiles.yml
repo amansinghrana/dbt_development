@@ -11,7 +11,7 @@ default:
       password: abc123
       role: TRANSFORMER_DEV
       database: DEV
-      warehouse: TRANSFORMING
+      warehouse: TRANSFORMING_DEV
       schema: ANALYTICS
       threads: 1
       client_session_keep_alive: False
