@@ -5,7 +5,7 @@ default:
   outputs:
 
     dev: # User-Password config
-      type: snowflake
+      type: snowflake     
       account: fd95100.ap-southeast-1
       user: DBT_CLOUD_DEV
       password: abc123
